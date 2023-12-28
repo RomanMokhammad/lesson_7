@@ -1,0 +1,179 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    max-width: 1920px;
+}
+.color header{
+    background-color: #EEEFF1;
+    padding-top: 79px;
+}
+li {
+    display: inline-block;
+    margin-right: 42px ;
+    max-width: 136px;
+    min-height: 27px ;
+    font-size: 16px;
+} 
+.col1{
+    color: #34547A;
+}
+ul{
+    margin: 0px 875px 151px 399px;
+    min-width: 646px;
+    min-height: 27px ;
+    padding: 0;
+}
+h1{
+    margin: 151px 980px 60px 399px;
+    min-width: 541px;
+    min-height: 45px ;
+    font-size: 48px;
+}
+
+header nav div p{
+    margin: 60px 980px 65px 400px;
+    min-width: 540px;
+    min-height: 67px ;
+    color: #727272;
+    font-size: 16px;
+}
+.button{
+    background-color: #34547A;
+    margin: 65px 1296px 141px 399px;
+    min-width: 225px;
+    min-height: 65px ;
+    font-size: 48px;
+    font-size: 16px;
+    color: #fff;
+}
+.colorB{
+    
+    background-color:#fff;
+    padding-top: 112px;
+    max-width: 1920px;
+}
+.colorB1{
+    margin: 0 auto;
+    width: 1920px;
+   
+
+
+}
+main section div h2{
+    margin: 0px  auto 50px;
+   text-align: center;
+    min-width: 403px;
+    min-height: 30px ;
+    font-size: 32px;
+
+}
+.Aboutme{
+    margin: 50px auto 100px;
+    text-align: center;
+    color: #727272;
+    width: 540px;
+    height: 67px ;
+    font-size: 16px;
+    line-height: 25px;
+   
+
+}
+
+.photo{
+    background-color: #34547A;
+    max-width: 1920px;
+    height: 250px;
+    padding-top: 100px;
+    box-sizing: border-box;
+    
+    
+}
+
+
+ img{
+    width:50px ;
+    height: 50px;
+    float: left;
+    margin:  0px 0px 100px 0px;
+    padding-right: 10px;
+ }
+ 
+ .qwert{
+    float: left;
+    width: 141px;
+    height: 150px;
+ }
+ h3{
+    margin: 0px 0px 10px 0px;
+    color: #fff;
+    padding-right: 10px;
+    font-size: 21px;
+   
+ }
+ .textp{
+    margin: 10px 0px 103px 0px;
+    color: #fff;
+    font-size: 16px;
+    
+ }
+
+ .photop {
+    margin: 0px 424px 0px 409px;
+ }
+
+ .video{
+    clear: left;
+    width: 1920px;
+    height: 1004px;
+    background-color: #EEEFF1;
+    padding-top: 100px;
+}
+
+.secvidh{
+   
+    text-align: center;
+}
+.secvid{
+    
+    text-align: center;
+}
+
+video{
+    width: 1110px;
+    height: 600px;
+    margin: 57px auto 100px;
+}
+.textvidh{
+margin-bottom: 50px;
+width: 403px;
+height: 30px;
+font-size: 32px;
+}
+
+.textvidp{
+    margin: 50px auto 57px;
+    width: 540px;
+    height: 67px;
+    color: #727272;
+    font-size: 16px;
+}
+
+.footer{
+    background-color: #34547A;
+    width: 1920px;
+    height: 150px;
+    padding-top: 50px;
+}
+.qwertyu{
+    margin: 0px 1384px 20px 406px;
+    color: #fff;
+    font-size: 21px;
+}
+
+.qawsed{
+    margin: 20px 1321px 50px 406px;
+    color: #fff;
+    font-size: 13px;
+}
